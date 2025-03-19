@@ -18,7 +18,7 @@ body {
 }
 
 .text {
-    font-size: 30px;;
+    font-size: 25px;;
     font-weight: 500;
     color: rgb(0, 0, 0);
     padding-top: 180px;
@@ -31,13 +31,13 @@ table {
     
 }
 th {
-    font-size: 23px;
+    font-size: 18px;
     border: 1px solid ;
     border-radius: 10px;
 }
 
 td {
-    font-size: 21px;
+    font-size: 18px;
     border: 1px solid ;
     border-radius: 10px;
 }
